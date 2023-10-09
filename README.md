@@ -2,6 +2,10 @@
 
 Just a placeholder for tips in data assuance and quality testing done in Excel
 
+**Caution** While tips will still work, Excel has improved, especially with higher level macros to match the right or left side of strings, etc.   
+
+My main purpose is to capture legacy Excel tips here. 
+
 # split name into separate cells
 
 FIRST NAME: 
